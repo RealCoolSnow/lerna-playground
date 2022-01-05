@@ -1,4 +1,4 @@
-# lerna-playground
+# lerna-react-demo
 ## Motivation
 You are working on multiple React projects and have some shared components throughout them. In the event of a change, instead of having edit one component multiple times, you can have edit the component just once with a **monorepo** file structure.
 
