@@ -20,3 +20,10 @@ The **webapp** folder is your React project.
 2) `lerna run build-common` # Build **common** project
 3) `lerna run start` # Start **webapp**
 
+## Author
+
+CoolSnow
+
+Email: coolsnow2020@gmail.com
+
+Twitter: https://twitter.com/CoolSnow0927
